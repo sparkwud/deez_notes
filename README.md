@@ -14,15 +14,21 @@ A beautifully crafted cross-platform Notes App developed using Flutter, offering
 
 ## Technologies Used
 
-- **[Flutter](https://flutter.dev/)**: A UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
-- **[Dart](https://dart.dev/)**: The programming language used to develop Flutter applications.
-- **[Riverpod](https://riverpod.dev/)**: A state management library for handling application state in a scalable and maintainable way.
-- **[Hive_Flutter](https://pub.dev/packages/hive_flutter)**: A lightweight and fast key-value database solution for Flutter, used for local storage.
+- **[dart](https://dart.dev/)**: programming language used to develop Flutter applications.
+- **[flutter](https://flutter.dev/)**: SDK for Flutter.
+- **[flutter_animate](https://pub.dev/packages/flutter_animate)**: ^4.5.0 - Provides animation capabilities for widgets.
+- **[flutter_riverpod](https://pub.dev/packages/flutter_riverpod)**: ^2.5.1 - A provider-based state management solution.
+- **[flutter_staggered_grid_view](https://pub.dev/packages/flutter_staggered_grid_view)**: ^0.7.0 - A Flutter staggered grid view implementation.
+- **[flutter_svg](https://pub.dev/packages/flutter_svg)**: ^2.0.10+1 - Renders SVG files in Flutter apps.
+- **[freezed](https://pub.dev/packages/freezed)**: ^2.5.7 - A code generation library for unions/pattern-matching/copy.
+- **[gap](https://pub.dev/packages/gap)**: ^3.0.1 - Provides a simple widget to add space between other widgets.
+- **[auto_size_text](https://pub.dev/packages/auto_size_text)**: ^3.0.0 - Automatically resizes text to fit within a defined area.
 - **[Flutter Rich Text Editor](https://pub.dev/packages/flutter_rich_text_editor)**: A plugin for implementing rich text editing capabilities, allowing users to format their notes.
-- [Flutter](https://flutter.dev/)
-- [Dart](https://dart.dev/)
-- [SharedPreferences](https://pub.dev/packages/shared_preferences) for local storage
 
+- **[go_router](https://pub.dev/packages/go_router)**: ^14.2.2 - A declarative router for Flutter apps.
+- **[google_fonts](https://pub.dev/packages/google_fonts)**: ^6.2.1 - Allows easy access to Google Fonts.
+- **[hive_flutter](https://pub.dev/packages/hive_flutter)**: ^1.1.0 - A lightweight and fast key-value database written in pure Dart.
+- **[uuid](https://pub.dev/packages/uuid)**: ^4.4.2 - Generates unique identifiers (UUIDs).
 <!-- ## Getting Started
 
 1. Clone the repository
@@ -35,10 +41,10 @@ A beautifully crafted cross-platform Notes App developed using Flutter, offering
 <table>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/2bb4d5ab-dbe0-4873-afa4-8df09213126d" />
+      <img src="https://github.com/user-attachments/assets/bc4047a0-deef-4081-a631-05825f773e03" />
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/bc4047a0-deef-4081-a631-05825f773e03" />
+      <img src="https://github.com/user-attachments/assets/2bb4d5ab-dbe0-4873-afa4-8df09213126d" />
     </td>
   </tr>
   <tr>
