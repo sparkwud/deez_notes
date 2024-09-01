@@ -11,8 +11,8 @@ import 'package:deez_notes/util/theme/typography.dart';
 import 'package:flutter/material.dart';
 import 'package:gap/gap.dart';
 
-import 'bloc/action/note_action_bloc.dart';
-import 'bloc/detail/note_detail_bloc.dart';
+import 'bloc/action/note_action_provider.dart';
+import 'bloc/detail/note_detail_provider.dart';
 
 class NoteDetailScreen extends StatefulWidget {
   const NoteDetailScreen({super.key, required this.noteId});
