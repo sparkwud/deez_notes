@@ -14,8 +14,8 @@ import 'package:flutter_animate/flutter_animate.dart';
 import 'package:flutter_staggered_grid_view/flutter_staggered_grid_view.dart';
 import 'package:gap/gap.dart';
 
-import 'bloc/home_bloc.dart';
-import 'bloc/multiple_delete/multiple_delete_bloc.dart';
+import 'bloc/home_provider.dart';
+import 'bloc/multiple_delete/multiple_delete_provider.dart';
 import 'widgets/note_card.dart';
 
 class HomeScreen extends StatelessWidget {
