@@ -35,7 +35,7 @@ A beautifully crafted cross-platform Notes App developed using Flutter, offering
 <table>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/f7fe8ae3-b9df-4405-acec-c51367553ab6" />
+      <img src="https://github.com/user-attachments/assets/2bb4d5ab-dbe0-4873-afa4-8df09213126d" />
     </td>
     <td>
       <img src="https://github.com/user-attachments/assets/bc4047a0-deef-4081-a631-05825f773e03" />
@@ -43,10 +43,10 @@ A beautifully crafted cross-platform Notes App developed using Flutter, offering
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/2bb4d5ab-dbe0-4873-afa4-8df09213126d" />
+      <img src="https://github.com/user-attachments/assets/f7fe8ae3-b9df-4405-acec-c51367553ab6" />
     </td>
     <td>
-      <img src="" />
+      <img src="https://github.com/user-attachments/assets/74d2ed82-b1f6-40e8-bcf8-197aaa7e0268" />
     </td>
   </tr>
 
