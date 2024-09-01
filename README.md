@@ -29,19 +29,25 @@ A beautifully crafted cross-platform Notes App developed using Flutter, offering
 2. Install dependencies:  `flutter pub get`
 3. Run the app:  `flutter run` -->
 
-## Demo
-
-Here's a quick demo of the app in action:
-
-<!-- ![demo](https://github.com/user-attachments/assets/a8316383-d5ea-4a0b-a5a0-78bae08d8f99) -->
-
-https://github.com/user-attachments/assets/3bea560f-051d-4d01-afd1-673481b3ad19
-
 
 ## Screenshots
 
-| Dark Mode | Light Mode |
-|-----------|------------|
-| ![dark_home](https://github.com/user-attachments/assets/c1ee43b4-872e-4eb0-8c90-dd96d3c9c71b) | ![light_home](https://github.com/user-attachments/assets/27dfa003-48bb-492a-931f-8da66d124c26) |
-| ![dark_character](https://github.com/user-attachments/assets/75da949a-4e4d-420f-8ebf-43446a567a93) | ![light_character](https://github.com/user-attachments/assets/e30ddc3a-bb34-44d4-9d9b-ccd0fdc26b95) |
-| ![dark_episode](https://github.com/user-attachments/assets/05eb0373-52a3-4239-bc82-7fa33b590d0e) | ![light_episode](https://github.com/user-attachments/assets/aabb5ab2-634a-4351-9414-4354eeecb1b2) |
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/f7fe8ae3-b9df-4405-acec-c51367553ab6" />
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/bc4047a0-deef-4081-a631-05825f773e03" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/2bb4d5ab-dbe0-4873-afa4-8df09213126d" />
+    </td>
+    <td>
+      <img src="" />
+    </td>
+  </tr>
+
+</table>
